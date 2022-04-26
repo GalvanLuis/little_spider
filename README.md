@@ -2,6 +2,9 @@
 
 ENES UNAM MORELIA, CLASE: COMPUTO DISTRIBUIDO 2022
 
+- [Luis Yovanny Bedolla Galvan](https://github.com/GalvanLuis) 
+> Email: gruisu@gmail.com
+
 ## Introduction:
 
 This repository contains exercise 5 of the distributed computing class exam.
