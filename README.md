@@ -16,7 +16,6 @@ It saves the file inside the folder where the image to be used in the website is
 Then we open the file update_time.conf which contains the seconds, as we don't want to use a string but integers then we read the lines and if there is an integer I will store it in my variable "a".
 Then with a loop I call the download function that will take the value of "a" previously stored.
 
-Translated with www.DeepL.com/Translator (free version)
 
 ## Dependencies:
 
